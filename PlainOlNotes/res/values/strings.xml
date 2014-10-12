@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Noter\'s note</string>
+    <string name="action_create_file">New Note</string>
+    <string name="action_create_folder">New Notebook</string>
+    <string name="action_deleteall">Delete all</string>
+    <string name="delete">Delete</string>
+    <string name="rename">Rename</string>
+    <string name="search_hint">Search for notes</string>
+    <string name="action_search">Search</string>
+	<string name="action_sort">Sort</string>
+	<string name="action_recent_edit">Recent Edit</string>
+</resources>

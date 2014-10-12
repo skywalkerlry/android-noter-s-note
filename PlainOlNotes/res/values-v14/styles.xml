@@ -1,0 +1,14 @@
+<resources>
+
+    <!--
+        Base application theme for API 14+. This theme completely replaces
+        AppBaseTheme from BOTH res/values/styles.xml and
+        res/values-v11/styles.xml on API 14+ devices.
+    -->
+    <style name="MyActionButtonOverflow" parent="@android:style/Widget.Holo.Light.ActionButton.Overflow">
+        <item name="android:src">@drawable/ic_action_create_note</item>
+    </style>
+
+    <style name="ActionButton" parent="@android:style/Widget.Holo.Light.ActionButton"></style>
+
+</resources>
